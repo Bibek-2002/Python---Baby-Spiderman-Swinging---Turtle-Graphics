@@ -14,5 +14,3 @@ This script illustrates a simplified baby version of Spiderman, complete with hi
 ## Prerequisites
 
 Before you run this script, you'll need to have Python installed on your computer. Python 3.x is recommended. The Turtle graphics library is part of the standard Python library, so no additional installations are required.
-
-## Installation
